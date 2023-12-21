@@ -36,7 +36,7 @@ As a passionate Cloud and DevOps Engineer, I specialize in:
 Feel free to reach out for collaboration, questions, or discussions:
 
 Email: rahulahmedrock@hotmail.com
-LinkedIn: [Md Rahul Ahmed](](https://www.linkedin.com/in/rahul-ahmed/)
+LinkedIn: [Md Rahul Ahmed] (https://www.linkedin.com/in/rahul-ahmed/)
 
 License
 This project is licensed under the MIT License.
